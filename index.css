@@ -1,0 +1,51 @@
+body{
+  background-color: gray;
+}
+.form-control{
+  background-color: white;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.col-md-12{
+  padding-left: 50px;
+  padding-right: 150px;
+  margin-top: 20px;
+  margin-left: 50px;
+
+}
+.box-part{
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  /* width: 300px; */
+  /* padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px; */
+}
+.img-fluid{
+  width: 150px;
+  height: 150px;
+  float: left;
+  padding: 5px 5px;
+}
+/* .box-part-1{
+  text-align: center;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+} */
+h3{
+  font-size: medium;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+/* .box-1{
+  width: 300px;
+} */
